@@ -1,0 +1,13 @@
+C:\Users\Alumne\Desktop\Java\Desenvolupament d'interficies\EjerciciosC#\Foreach-List\Foreach-List\bin\Debug\netcoreapp3.1\Foreach-List.exe
+C:\Users\Alumne\Desktop\Java\Desenvolupament d'interficies\EjerciciosC#\Foreach-List\Foreach-List\bin\Debug\netcoreapp3.1\Foreach-List.deps.json
+C:\Users\Alumne\Desktop\Java\Desenvolupament d'interficies\EjerciciosC#\Foreach-List\Foreach-List\bin\Debug\netcoreapp3.1\Foreach-List.runtimeconfig.json
+C:\Users\Alumne\Desktop\Java\Desenvolupament d'interficies\EjerciciosC#\Foreach-List\Foreach-List\bin\Debug\netcoreapp3.1\Foreach-List.runtimeconfig.dev.json
+C:\Users\Alumne\Desktop\Java\Desenvolupament d'interficies\EjerciciosC#\Foreach-List\Foreach-List\bin\Debug\netcoreapp3.1\Foreach-List.dll
+C:\Users\Alumne\Desktop\Java\Desenvolupament d'interficies\EjerciciosC#\Foreach-List\Foreach-List\bin\Debug\netcoreapp3.1\Foreach-List.pdb
+C:\Users\Alumne\Desktop\Java\Desenvolupament d'interficies\EjerciciosC#\Foreach-List\Foreach-List\obj\Debug\netcoreapp3.1\Foreach-List.csprojAssemblyReference.cache
+C:\Users\Alumne\Desktop\Java\Desenvolupament d'interficies\EjerciciosC#\Foreach-List\Foreach-List\obj\Debug\netcoreapp3.1\Foreach-List.AssemblyInfoInputs.cache
+C:\Users\Alumne\Desktop\Java\Desenvolupament d'interficies\EjerciciosC#\Foreach-List\Foreach-List\obj\Debug\netcoreapp3.1\Foreach-List.AssemblyInfo.cs
+C:\Users\Alumne\Desktop\Java\Desenvolupament d'interficies\EjerciciosC#\Foreach-List\Foreach-List\obj\Debug\netcoreapp3.1\Foreach-List.csproj.CoreCompileInputs.cache
+C:\Users\Alumne\Desktop\Java\Desenvolupament d'interficies\EjerciciosC#\Foreach-List\Foreach-List\obj\Debug\netcoreapp3.1\Foreach-List.dll
+C:\Users\Alumne\Desktop\Java\Desenvolupament d'interficies\EjerciciosC#\Foreach-List\Foreach-List\obj\Debug\netcoreapp3.1\Foreach-List.pdb
+C:\Users\Alumne\Desktop\Java\Desenvolupament d'interficies\EjerciciosC#\Foreach-List\Foreach-List\obj\Debug\netcoreapp3.1\Foreach-List.genruntimeconfig.cache
