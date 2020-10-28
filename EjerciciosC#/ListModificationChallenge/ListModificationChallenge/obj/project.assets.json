@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alumne\\Desktop\\Java\\Desenvolupament d'interficies\\Ejercicios\\EjerciciosC#\\Foreach-List\\Foreach-List\\Foreach-List.csproj",
-      "projectName": "Foreach-List",
-      "projectPath": "C:\\Users\\Alumne\\Desktop\\Java\\Desenvolupament d'interficies\\Ejercicios\\EjerciciosC#\\Foreach-List\\Foreach-List\\Foreach-List.csproj",
+      "projectUniqueName": "C:\\Users\\Alumne\\Desktop\\Java\\Desenvolupament d'interficies\\Ejercicios\\EjerciciosC#\\ListModificationChallenge\\ListModificationChallenge\\ListModificationChallenge.csproj",
+      "projectName": "ListModificationChallenge",
+      "projectPath": "C:\\Users\\Alumne\\Desktop\\Java\\Desenvolupament d'interficies\\Ejercicios\\EjerciciosC#\\ListModificationChallenge\\ListModificationChallenge\\ListModificationChallenge.csproj",
       "packagesPath": "C:\\Users\\Alumne\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alumne\\Desktop\\Java\\Desenvolupament d'interficies\\Ejercicios\\EjerciciosC#\\Foreach-List\\Foreach-List\\obj\\",
+      "outputPath": "C:\\Users\\Alumne\\Desktop\\Java\\Desenvolupament d'interficies\\Ejercicios\\EjerciciosC#\\ListModificationChallenge\\ListModificationChallenge\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

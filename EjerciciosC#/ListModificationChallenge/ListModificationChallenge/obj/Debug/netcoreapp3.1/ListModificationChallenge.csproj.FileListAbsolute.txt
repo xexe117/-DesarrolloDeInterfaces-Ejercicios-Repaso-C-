@@ -1,0 +1,13 @@
+C:\Users\Alumne\Desktop\Java\Desenvolupament d'interficies\Ejercicios\EjerciciosC#\ListModificationChallenge\ListModificationChallenge\bin\Debug\netcoreapp3.1\ListModificationChallenge.exe
+C:\Users\Alumne\Desktop\Java\Desenvolupament d'interficies\Ejercicios\EjerciciosC#\ListModificationChallenge\ListModificationChallenge\bin\Debug\netcoreapp3.1\ListModificationChallenge.deps.json
+C:\Users\Alumne\Desktop\Java\Desenvolupament d'interficies\Ejercicios\EjerciciosC#\ListModificationChallenge\ListModificationChallenge\bin\Debug\netcoreapp3.1\ListModificationChallenge.runtimeconfig.json
+C:\Users\Alumne\Desktop\Java\Desenvolupament d'interficies\Ejercicios\EjerciciosC#\ListModificationChallenge\ListModificationChallenge\bin\Debug\netcoreapp3.1\ListModificationChallenge.runtimeconfig.dev.json
+C:\Users\Alumne\Desktop\Java\Desenvolupament d'interficies\Ejercicios\EjerciciosC#\ListModificationChallenge\ListModificationChallenge\bin\Debug\netcoreapp3.1\ListModificationChallenge.dll
+C:\Users\Alumne\Desktop\Java\Desenvolupament d'interficies\Ejercicios\EjerciciosC#\ListModificationChallenge\ListModificationChallenge\bin\Debug\netcoreapp3.1\ListModificationChallenge.pdb
+C:\Users\Alumne\Desktop\Java\Desenvolupament d'interficies\Ejercicios\EjerciciosC#\ListModificationChallenge\ListModificationChallenge\obj\Debug\netcoreapp3.1\ListModificationChallenge.csprojAssemblyReference.cache
+C:\Users\Alumne\Desktop\Java\Desenvolupament d'interficies\Ejercicios\EjerciciosC#\ListModificationChallenge\ListModificationChallenge\obj\Debug\netcoreapp3.1\ListModificationChallenge.AssemblyInfoInputs.cache
+C:\Users\Alumne\Desktop\Java\Desenvolupament d'interficies\Ejercicios\EjerciciosC#\ListModificationChallenge\ListModificationChallenge\obj\Debug\netcoreapp3.1\ListModificationChallenge.AssemblyInfo.cs
+C:\Users\Alumne\Desktop\Java\Desenvolupament d'interficies\Ejercicios\EjerciciosC#\ListModificationChallenge\ListModificationChallenge\obj\Debug\netcoreapp3.1\ListModificationChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Alumne\Desktop\Java\Desenvolupament d'interficies\Ejercicios\EjerciciosC#\ListModificationChallenge\ListModificationChallenge\obj\Debug\netcoreapp3.1\ListModificationChallenge.dll
+C:\Users\Alumne\Desktop\Java\Desenvolupament d'interficies\Ejercicios\EjerciciosC#\ListModificationChallenge\ListModificationChallenge\obj\Debug\netcoreapp3.1\ListModificationChallenge.pdb
+C:\Users\Alumne\Desktop\Java\Desenvolupament d'interficies\Ejercicios\EjerciciosC#\ListModificationChallenge\ListModificationChallenge\obj\Debug\netcoreapp3.1\ListModificationChallenge.genruntimeconfig.cache
