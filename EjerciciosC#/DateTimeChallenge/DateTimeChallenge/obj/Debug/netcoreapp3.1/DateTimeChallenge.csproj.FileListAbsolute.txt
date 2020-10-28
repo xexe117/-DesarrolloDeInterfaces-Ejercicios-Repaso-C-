@@ -1,0 +1,13 @@
+C:\Users\Alumne\Desktop\Java\Desenvolupament d'interficies\Ejercicios\EjerciciosC#\DateTimeChallenge\DateTimeChallenge\bin\Debug\netcoreapp3.1\DateTimeChallenge.exe
+C:\Users\Alumne\Desktop\Java\Desenvolupament d'interficies\Ejercicios\EjerciciosC#\DateTimeChallenge\DateTimeChallenge\bin\Debug\netcoreapp3.1\DateTimeChallenge.deps.json
+C:\Users\Alumne\Desktop\Java\Desenvolupament d'interficies\Ejercicios\EjerciciosC#\DateTimeChallenge\DateTimeChallenge\bin\Debug\netcoreapp3.1\DateTimeChallenge.runtimeconfig.json
+C:\Users\Alumne\Desktop\Java\Desenvolupament d'interficies\Ejercicios\EjerciciosC#\DateTimeChallenge\DateTimeChallenge\bin\Debug\netcoreapp3.1\DateTimeChallenge.runtimeconfig.dev.json
+C:\Users\Alumne\Desktop\Java\Desenvolupament d'interficies\Ejercicios\EjerciciosC#\DateTimeChallenge\DateTimeChallenge\bin\Debug\netcoreapp3.1\DateTimeChallenge.dll
+C:\Users\Alumne\Desktop\Java\Desenvolupament d'interficies\Ejercicios\EjerciciosC#\DateTimeChallenge\DateTimeChallenge\bin\Debug\netcoreapp3.1\DateTimeChallenge.pdb
+C:\Users\Alumne\Desktop\Java\Desenvolupament d'interficies\Ejercicios\EjerciciosC#\DateTimeChallenge\DateTimeChallenge\obj\Debug\netcoreapp3.1\DateTimeChallenge.csprojAssemblyReference.cache
+C:\Users\Alumne\Desktop\Java\Desenvolupament d'interficies\Ejercicios\EjerciciosC#\DateTimeChallenge\DateTimeChallenge\obj\Debug\netcoreapp3.1\DateTimeChallenge.AssemblyInfoInputs.cache
+C:\Users\Alumne\Desktop\Java\Desenvolupament d'interficies\Ejercicios\EjerciciosC#\DateTimeChallenge\DateTimeChallenge\obj\Debug\netcoreapp3.1\DateTimeChallenge.AssemblyInfo.cs
+C:\Users\Alumne\Desktop\Java\Desenvolupament d'interficies\Ejercicios\EjerciciosC#\DateTimeChallenge\DateTimeChallenge\obj\Debug\netcoreapp3.1\DateTimeChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Alumne\Desktop\Java\Desenvolupament d'interficies\Ejercicios\EjerciciosC#\DateTimeChallenge\DateTimeChallenge\obj\Debug\netcoreapp3.1\DateTimeChallenge.dll
+C:\Users\Alumne\Desktop\Java\Desenvolupament d'interficies\Ejercicios\EjerciciosC#\DateTimeChallenge\DateTimeChallenge\obj\Debug\netcoreapp3.1\DateTimeChallenge.pdb
+C:\Users\Alumne\Desktop\Java\Desenvolupament d'interficies\Ejercicios\EjerciciosC#\DateTimeChallenge\DateTimeChallenge\obj\Debug\netcoreapp3.1\DateTimeChallenge.genruntimeconfig.cache
