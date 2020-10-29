@@ -12,6 +12,8 @@ namespace DateTimeChallenge
 
             DateTime dataAnterior = DateTime.ParseExact(data, "dd/MM/yyyy", null);
 
+            TimeSpan diasPasats = DateTime.Now.Subtract(dataAnterior);
+
             Console.WriteLine("Han passado: " + diasPasats.Days + " dias");
 
             Console.WriteLine("---------------------------");
