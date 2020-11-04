@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Foreach-List")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("TextFileChallenge")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("Foreach-List")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Foreach-List")]
+[assembly: System.Reflection.AssemblyProductAttribute("TextFileChallenge")]
+[assembly: System.Reflection.AssemblyTitleAttribute("TextFileChallenge")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
