@@ -46,62 +46,64 @@
             // listNames
             // 
             this.listNames.FormattingEnabled = true;
-            this.listNames.ItemHeight = 15;
-            this.listNames.Location = new System.Drawing.Point(364, 62);
+            this.listNames.ItemHeight = 20;
+            this.listNames.Location = new System.Drawing.Point(416, 83);
+            this.listNames.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.listNames.Name = "listNames";
-            this.listNames.Size = new System.Drawing.Size(316, 274);
+            this.listNames.Size = new System.Drawing.Size(361, 364);
             this.listNames.TabIndex = 0;
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(12, 9);
+            this.label1.Location = new System.Drawing.Point(14, 12);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(105, 15);
+            this.label1.Size = new System.Drawing.Size(133, 20);
             this.label1.TabIndex = 1;
             this.label1.Text = "Text File Challenge";
             // 
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(12, 65);
+            this.label2.Location = new System.Drawing.Point(14, 87);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(67, 15);
+            this.label2.Size = new System.Drawing.Size(83, 20);
             this.label2.TabIndex = 1;
             this.label2.Text = "First Name:";
             // 
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(12, 136);
+            this.label3.Location = new System.Drawing.Point(14, 181);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(66, 15);
+            this.label3.Size = new System.Drawing.Size(82, 20);
             this.label3.TabIndex = 1;
             this.label3.Text = "Last Name:";
             // 
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(12, 205);
+            this.label4.Location = new System.Drawing.Point(14, 273);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(31, 15);
+            this.label4.Size = new System.Drawing.Size(39, 20);
             this.label4.TabIndex = 1;
             this.label4.Text = "Age:";
             // 
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(12, 262);
+            this.label5.Location = new System.Drawing.Point(14, 349);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(47, 15);
+            this.label5.Size = new System.Drawing.Size(59, 20);
             this.label5.TabIndex = 1;
             this.label5.Text = "Is Alive:";
             // 
             // addUs
             // 
-            this.addUs.Location = new System.Drawing.Point(54, 307);
+            this.addUs.Location = new System.Drawing.Point(62, 409);
+            this.addUs.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.addUs.Name = "addUs";
-            this.addUs.Size = new System.Drawing.Size(276, 46);
+            this.addUs.Size = new System.Drawing.Size(315, 61);
             this.addUs.TabIndex = 2;
             this.addUs.Text = "Add User";
             this.addUs.UseVisualStyleBackColor = true;
@@ -110,47 +112,53 @@
             // liveCheck
             // 
             this.liveCheck.AutoSize = true;
-            this.liveCheck.Location = new System.Drawing.Point(97, 261);
+            this.liveCheck.Location = new System.Drawing.Point(111, 348);
+            this.liveCheck.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.liveCheck.Name = "liveCheck";
-            this.liveCheck.Size = new System.Drawing.Size(15, 14);
+            this.liveCheck.Size = new System.Drawing.Size(18, 17);
             this.liveCheck.TabIndex = 4;
             this.liveCheck.UseVisualStyleBackColor = true;
             // 
             // numAge
             // 
-            this.numAge.Location = new System.Drawing.Point(97, 203);
+            this.numAge.Location = new System.Drawing.Point(111, 271);
+            this.numAge.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.numAge.Name = "numAge";
-            this.numAge.Size = new System.Drawing.Size(56, 23);
+            this.numAge.Size = new System.Drawing.Size(64, 27);
             this.numAge.TabIndex = 5;
             // 
             // firstName
             // 
-            this.firstName.Location = new System.Drawing.Point(97, 62);
+            this.firstName.Location = new System.Drawing.Point(111, 83);
+            this.firstName.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.firstName.Name = "firstName";
-            this.firstName.Size = new System.Drawing.Size(233, 23);
+            this.firstName.Size = new System.Drawing.Size(266, 27);
             this.firstName.TabIndex = 6;
             // 
             // lastName
             // 
-            this.lastName.Location = new System.Drawing.Point(97, 133);
+            this.lastName.Location = new System.Drawing.Point(111, 177);
+            this.lastName.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.lastName.Name = "lastName";
-            this.lastName.Size = new System.Drawing.Size(233, 23);
+            this.lastName.Size = new System.Drawing.Size(266, 27);
             this.lastName.TabIndex = 6;
             // 
             // saveList
             // 
-            this.saveList.Location = new System.Drawing.Point(54, 372);
+            this.saveList.Location = new System.Drawing.Point(62, 496);
+            this.saveList.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.saveList.Name = "saveList";
-            this.saveList.Size = new System.Drawing.Size(276, 42);
+            this.saveList.Size = new System.Drawing.Size(315, 56);
             this.saveList.TabIndex = 2;
             this.saveList.Text = "Save List";
             this.saveList.UseVisualStyleBackColor = true;
+            this.saveList.Click += new System.EventHandler(this.saveList_Click_1);
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(697, 416);
+            this.ClientSize = new System.Drawing.Size(797, 555);
             this.Controls.Add(this.saveList);
             this.Controls.Add(this.lastName);
             this.Controls.Add(this.firstName);
@@ -163,6 +171,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.listNames);
+            this.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.Name = "Form1";
             this.Text = "Form1";
             ((System.ComponentModel.ISupportInitialize)(this.numAge)).EndInit();

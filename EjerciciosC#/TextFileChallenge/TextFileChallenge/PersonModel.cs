@@ -1,12 +1,12 @@
 ﻿namespace TextFileChallenge
 {
-    internal class PersonModel
+    internal class UserModel
     {
         public string FirstName { get; set; }
         public string LastName { get; set; }
-        public string Age { get; set; }
-        public string IsAlive { get; set; }
-        
+        public int Age { get; set; }
+        public bool IsAlive { get; set; }
+
         public string DisplayText
         {
             get

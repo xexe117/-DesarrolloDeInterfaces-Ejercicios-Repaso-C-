@@ -1,0 +1,15 @@
+C:\Users\Alumne\Desktop\Java\Desenvolupament d'interficies\Ejercicios\EjerciciosC#\TextFileChallenge\TextFileChallenge\obj\Debug\netcoreapp3.1\TextFileChallenge.csprojAssemblyReference.cache
+C:\Users\Alumne\Desktop\Java\Desenvolupament d'interficies\Ejercicios\EjerciciosC#\TextFileChallenge\TextFileChallenge\obj\Debug\netcoreapp3.1\TextFileChallenge.Form1.resources
+C:\Users\Alumne\Desktop\Java\Desenvolupament d'interficies\Ejercicios\EjerciciosC#\TextFileChallenge\TextFileChallenge\obj\Debug\netcoreapp3.1\TextFileChallenge.csproj.GenerateResource.cache
+C:\Users\Alumne\Desktop\Java\Desenvolupament d'interficies\Ejercicios\EjerciciosC#\TextFileChallenge\TextFileChallenge\obj\Debug\netcoreapp3.1\TextFileChallenge.AssemblyInfoInputs.cache
+C:\Users\Alumne\Desktop\Java\Desenvolupament d'interficies\Ejercicios\EjerciciosC#\TextFileChallenge\TextFileChallenge\obj\Debug\netcoreapp3.1\TextFileChallenge.AssemblyInfo.cs
+C:\Users\Alumne\Desktop\Java\Desenvolupament d'interficies\Ejercicios\EjerciciosC#\TextFileChallenge\TextFileChallenge\obj\Debug\netcoreapp3.1\TextFileChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Alumne\Desktop\Java\Desenvolupament d'interficies\Ejercicios\EjerciciosC#\TextFileChallenge\TextFileChallenge\bin\Debug\netcoreapp3.1\TextFileChallenge.exe
+C:\Users\Alumne\Desktop\Java\Desenvolupament d'interficies\Ejercicios\EjerciciosC#\TextFileChallenge\TextFileChallenge\bin\Debug\netcoreapp3.1\TextFileChallenge.deps.json
+C:\Users\Alumne\Desktop\Java\Desenvolupament d'interficies\Ejercicios\EjerciciosC#\TextFileChallenge\TextFileChallenge\bin\Debug\netcoreapp3.1\TextFileChallenge.runtimeconfig.json
+C:\Users\Alumne\Desktop\Java\Desenvolupament d'interficies\Ejercicios\EjerciciosC#\TextFileChallenge\TextFileChallenge\bin\Debug\netcoreapp3.1\TextFileChallenge.runtimeconfig.dev.json
+C:\Users\Alumne\Desktop\Java\Desenvolupament d'interficies\Ejercicios\EjerciciosC#\TextFileChallenge\TextFileChallenge\bin\Debug\netcoreapp3.1\TextFileChallenge.dll
+C:\Users\Alumne\Desktop\Java\Desenvolupament d'interficies\Ejercicios\EjerciciosC#\TextFileChallenge\TextFileChallenge\bin\Debug\netcoreapp3.1\TextFileChallenge.pdb
+C:\Users\Alumne\Desktop\Java\Desenvolupament d'interficies\Ejercicios\EjerciciosC#\TextFileChallenge\TextFileChallenge\obj\Debug\netcoreapp3.1\TextFileChallenge.dll
+C:\Users\Alumne\Desktop\Java\Desenvolupament d'interficies\Ejercicios\EjerciciosC#\TextFileChallenge\TextFileChallenge\obj\Debug\netcoreapp3.1\TextFileChallenge.pdb
+C:\Users\Alumne\Desktop\Java\Desenvolupament d'interficies\Ejercicios\EjerciciosC#\TextFileChallenge\TextFileChallenge\obj\Debug\netcoreapp3.1\TextFileChallenge.genruntimeconfig.cache

@@ -1,21 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\xesc2\\Desktop\\C#\\-DesarrolloDeInterfaces-Ejercicios-Repaso-C-\\EjerciciosC#\\TextFileChallenge\\TextFileChallenge\\TextFileChallenge.csproj": {}
+    "C:\\Users\\Alumne\\Desktop\\Java\\Desenvolupament d'interficies\\Ejercicios\\EjerciciosC#\\TextFileChallenge\\TextFileChallenge\\TextFileChallenge.csproj": {}
   },
   "projects": {
-    "C:\\Users\\xesc2\\Desktop\\C#\\-DesarrolloDeInterfaces-Ejercicios-Repaso-C-\\EjerciciosC#\\TextFileChallenge\\TextFileChallenge\\TextFileChallenge.csproj": {
+    "C:\\Users\\Alumne\\Desktop\\Java\\Desenvolupament d'interficies\\Ejercicios\\EjerciciosC#\\TextFileChallenge\\TextFileChallenge\\TextFileChallenge.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\xesc2\\Desktop\\C#\\-DesarrolloDeInterfaces-Ejercicios-Repaso-C-\\EjerciciosC#\\TextFileChallenge\\TextFileChallenge\\TextFileChallenge.csproj",
+        "projectUniqueName": "C:\\Users\\Alumne\\Desktop\\Java\\Desenvolupament d'interficies\\Ejercicios\\EjerciciosC#\\TextFileChallenge\\TextFileChallenge\\TextFileChallenge.csproj",
         "projectName": "TextFileChallenge",
-        "projectPath": "C:\\Users\\xesc2\\Desktop\\C#\\-DesarrolloDeInterfaces-Ejercicios-Repaso-C-\\EjerciciosC#\\TextFileChallenge\\TextFileChallenge\\TextFileChallenge.csproj",
-        "packagesPath": "C:\\Users\\xesc2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\xesc2\\Desktop\\C#\\-DesarrolloDeInterfaces-Ejercicios-Repaso-C-\\EjerciciosC#\\TextFileChallenge\\TextFileChallenge\\obj\\",
+        "projectPath": "C:\\Users\\Alumne\\Desktop\\Java\\Desenvolupament d'interficies\\Ejercicios\\EjerciciosC#\\TextFileChallenge\\TextFileChallenge\\TextFileChallenge.csproj",
+        "packagesPath": "C:\\Users\\Alumne\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Alumne\\Desktop\\Java\\Desenvolupament d'interficies\\Ejercicios\\EjerciciosC#\\TextFileChallenge\\TextFileChallenge\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\xesc2\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Alumne\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -55,7 +59,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
