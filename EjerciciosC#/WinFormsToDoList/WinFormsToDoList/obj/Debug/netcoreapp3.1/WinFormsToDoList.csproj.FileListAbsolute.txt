@@ -1,0 +1,15 @@
+C:\Users\Alumne\Desktop\Java\Desenvolupament d'interficies\Ejercicios\EjerciciosC#\WinFormsToDoList\WinFormsToDoList\obj\Debug\netcoreapp3.1\WinFormsToDoList.csprojAssemblyReference.cache
+C:\Users\Alumne\Desktop\Java\Desenvolupament d'interficies\Ejercicios\EjerciciosC#\WinFormsToDoList\WinFormsToDoList\obj\Debug\netcoreapp3.1\WinFormsToDoList.Form1.resources
+C:\Users\Alumne\Desktop\Java\Desenvolupament d'interficies\Ejercicios\EjerciciosC#\WinFormsToDoList\WinFormsToDoList\obj\Debug\netcoreapp3.1\WinFormsToDoList.csproj.GenerateResource.cache
+C:\Users\Alumne\Desktop\Java\Desenvolupament d'interficies\Ejercicios\EjerciciosC#\WinFormsToDoList\WinFormsToDoList\obj\Debug\netcoreapp3.1\WinFormsToDoList.AssemblyInfoInputs.cache
+C:\Users\Alumne\Desktop\Java\Desenvolupament d'interficies\Ejercicios\EjerciciosC#\WinFormsToDoList\WinFormsToDoList\obj\Debug\netcoreapp3.1\WinFormsToDoList.AssemblyInfo.cs
+C:\Users\Alumne\Desktop\Java\Desenvolupament d'interficies\Ejercicios\EjerciciosC#\WinFormsToDoList\WinFormsToDoList\obj\Debug\netcoreapp3.1\WinFormsToDoList.csproj.CoreCompileInputs.cache
+C:\Users\Alumne\Desktop\Java\Desenvolupament d'interficies\Ejercicios\EjerciciosC#\WinFormsToDoList\WinFormsToDoList\bin\Debug\netcoreapp3.1\WinFormsToDoList.exe
+C:\Users\Alumne\Desktop\Java\Desenvolupament d'interficies\Ejercicios\EjerciciosC#\WinFormsToDoList\WinFormsToDoList\bin\Debug\netcoreapp3.1\WinFormsToDoList.deps.json
+C:\Users\Alumne\Desktop\Java\Desenvolupament d'interficies\Ejercicios\EjerciciosC#\WinFormsToDoList\WinFormsToDoList\bin\Debug\netcoreapp3.1\WinFormsToDoList.runtimeconfig.json
+C:\Users\Alumne\Desktop\Java\Desenvolupament d'interficies\Ejercicios\EjerciciosC#\WinFormsToDoList\WinFormsToDoList\bin\Debug\netcoreapp3.1\WinFormsToDoList.runtimeconfig.dev.json
+C:\Users\Alumne\Desktop\Java\Desenvolupament d'interficies\Ejercicios\EjerciciosC#\WinFormsToDoList\WinFormsToDoList\bin\Debug\netcoreapp3.1\WinFormsToDoList.dll
+C:\Users\Alumne\Desktop\Java\Desenvolupament d'interficies\Ejercicios\EjerciciosC#\WinFormsToDoList\WinFormsToDoList\bin\Debug\netcoreapp3.1\WinFormsToDoList.pdb
+C:\Users\Alumne\Desktop\Java\Desenvolupament d'interficies\Ejercicios\EjerciciosC#\WinFormsToDoList\WinFormsToDoList\obj\Debug\netcoreapp3.1\WinFormsToDoList.dll
+C:\Users\Alumne\Desktop\Java\Desenvolupament d'interficies\Ejercicios\EjerciciosC#\WinFormsToDoList\WinFormsToDoList\obj\Debug\netcoreapp3.1\WinFormsToDoList.pdb
+C:\Users\Alumne\Desktop\Java\Desenvolupament d'interficies\Ejercicios\EjerciciosC#\WinFormsToDoList\WinFormsToDoList\obj\Debug\netcoreapp3.1\WinFormsToDoList.genruntimeconfig.cache
