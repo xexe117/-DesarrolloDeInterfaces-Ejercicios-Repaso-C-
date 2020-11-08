@@ -1,0 +1,13 @@
+C:\Users\xesc2\Desktop\C#\-DesarrolloDeInterfaces-Ejercicios-Repaso-C-\EjerciciosC#\ConsoleToDoListChallenge\ConsoleToDoListChallenge\bin\Debug\netcoreapp3.1\ConsoleToDoListChallenge.exe
+C:\Users\xesc2\Desktop\C#\-DesarrolloDeInterfaces-Ejercicios-Repaso-C-\EjerciciosC#\ConsoleToDoListChallenge\ConsoleToDoListChallenge\bin\Debug\netcoreapp3.1\ConsoleToDoListChallenge.deps.json
+C:\Users\xesc2\Desktop\C#\-DesarrolloDeInterfaces-Ejercicios-Repaso-C-\EjerciciosC#\ConsoleToDoListChallenge\ConsoleToDoListChallenge\bin\Debug\netcoreapp3.1\ConsoleToDoListChallenge.runtimeconfig.json
+C:\Users\xesc2\Desktop\C#\-DesarrolloDeInterfaces-Ejercicios-Repaso-C-\EjerciciosC#\ConsoleToDoListChallenge\ConsoleToDoListChallenge\bin\Debug\netcoreapp3.1\ConsoleToDoListChallenge.runtimeconfig.dev.json
+C:\Users\xesc2\Desktop\C#\-DesarrolloDeInterfaces-Ejercicios-Repaso-C-\EjerciciosC#\ConsoleToDoListChallenge\ConsoleToDoListChallenge\bin\Debug\netcoreapp3.1\ConsoleToDoListChallenge.dll
+C:\Users\xesc2\Desktop\C#\-DesarrolloDeInterfaces-Ejercicios-Repaso-C-\EjerciciosC#\ConsoleToDoListChallenge\ConsoleToDoListChallenge\bin\Debug\netcoreapp3.1\ConsoleToDoListChallenge.pdb
+C:\Users\xesc2\Desktop\C#\-DesarrolloDeInterfaces-Ejercicios-Repaso-C-\EjerciciosC#\ConsoleToDoListChallenge\ConsoleToDoListChallenge\obj\Debug\netcoreapp3.1\ConsoleToDoListChallenge.csprojAssemblyReference.cache
+C:\Users\xesc2\Desktop\C#\-DesarrolloDeInterfaces-Ejercicios-Repaso-C-\EjerciciosC#\ConsoleToDoListChallenge\ConsoleToDoListChallenge\obj\Debug\netcoreapp3.1\ConsoleToDoListChallenge.AssemblyInfoInputs.cache
+C:\Users\xesc2\Desktop\C#\-DesarrolloDeInterfaces-Ejercicios-Repaso-C-\EjerciciosC#\ConsoleToDoListChallenge\ConsoleToDoListChallenge\obj\Debug\netcoreapp3.1\ConsoleToDoListChallenge.AssemblyInfo.cs
+C:\Users\xesc2\Desktop\C#\-DesarrolloDeInterfaces-Ejercicios-Repaso-C-\EjerciciosC#\ConsoleToDoListChallenge\ConsoleToDoListChallenge\obj\Debug\netcoreapp3.1\ConsoleToDoListChallenge.csproj.CoreCompileInputs.cache
+C:\Users\xesc2\Desktop\C#\-DesarrolloDeInterfaces-Ejercicios-Repaso-C-\EjerciciosC#\ConsoleToDoListChallenge\ConsoleToDoListChallenge\obj\Debug\netcoreapp3.1\ConsoleToDoListChallenge.dll
+C:\Users\xesc2\Desktop\C#\-DesarrolloDeInterfaces-Ejercicios-Repaso-C-\EjerciciosC#\ConsoleToDoListChallenge\ConsoleToDoListChallenge\obj\Debug\netcoreapp3.1\ConsoleToDoListChallenge.pdb
+C:\Users\xesc2\Desktop\C#\-DesarrolloDeInterfaces-Ejercicios-Repaso-C-\EjerciciosC#\ConsoleToDoListChallenge\ConsoleToDoListChallenge\obj\Debug\netcoreapp3.1\ConsoleToDoListChallenge.genruntimeconfig.cache
