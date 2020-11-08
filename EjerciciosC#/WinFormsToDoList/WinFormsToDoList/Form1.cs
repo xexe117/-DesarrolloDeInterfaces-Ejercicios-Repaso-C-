@@ -50,6 +50,7 @@ namespace WinFormsToDoList
         private void StartEditingItem(TodoItemModel todo)
         {
             currentEdit = todo;
+
             newItemLabel.Text = "Update todo item";
             ListaLabel.Text = "Edit ToDo Item";
             todoListBox.Text = currentEdit.Todotxt; 
@@ -59,6 +60,7 @@ namespace WinFormsToDoList
         {
             currentEdit.Todotxt = todoListBox.Text;
             currentEdit = null;
+
             newItemLabel.Text = "New todo item";
             ListaLabel.Text = "Add ToDo Item";
 
