@@ -1,0 +1,13 @@
+C:\Users\xesc2\Desktop\C#\-DesarrolloDeInterfaces-Ejercicios-Repaso-C-\EjerciciosC#\RemplazoDeStringsChallenge\RemplazoDeStringsChallenge\bin\Debug\netcoreapp3.1\RemplazoDeStringsChallenge.exe
+C:\Users\xesc2\Desktop\C#\-DesarrolloDeInterfaces-Ejercicios-Repaso-C-\EjerciciosC#\RemplazoDeStringsChallenge\RemplazoDeStringsChallenge\bin\Debug\netcoreapp3.1\RemplazoDeStringsChallenge.deps.json
+C:\Users\xesc2\Desktop\C#\-DesarrolloDeInterfaces-Ejercicios-Repaso-C-\EjerciciosC#\RemplazoDeStringsChallenge\RemplazoDeStringsChallenge\bin\Debug\netcoreapp3.1\RemplazoDeStringsChallenge.runtimeconfig.json
+C:\Users\xesc2\Desktop\C#\-DesarrolloDeInterfaces-Ejercicios-Repaso-C-\EjerciciosC#\RemplazoDeStringsChallenge\RemplazoDeStringsChallenge\bin\Debug\netcoreapp3.1\RemplazoDeStringsChallenge.runtimeconfig.dev.json
+C:\Users\xesc2\Desktop\C#\-DesarrolloDeInterfaces-Ejercicios-Repaso-C-\EjerciciosC#\RemplazoDeStringsChallenge\RemplazoDeStringsChallenge\bin\Debug\netcoreapp3.1\RemplazoDeStringsChallenge.dll
+C:\Users\xesc2\Desktop\C#\-DesarrolloDeInterfaces-Ejercicios-Repaso-C-\EjerciciosC#\RemplazoDeStringsChallenge\RemplazoDeStringsChallenge\bin\Debug\netcoreapp3.1\RemplazoDeStringsChallenge.pdb
+C:\Users\xesc2\Desktop\C#\-DesarrolloDeInterfaces-Ejercicios-Repaso-C-\EjerciciosC#\RemplazoDeStringsChallenge\RemplazoDeStringsChallenge\obj\Debug\netcoreapp3.1\RemplazoDeStringsChallenge.csprojAssemblyReference.cache
+C:\Users\xesc2\Desktop\C#\-DesarrolloDeInterfaces-Ejercicios-Repaso-C-\EjerciciosC#\RemplazoDeStringsChallenge\RemplazoDeStringsChallenge\obj\Debug\netcoreapp3.1\RemplazoDeStringsChallenge.AssemblyInfoInputs.cache
+C:\Users\xesc2\Desktop\C#\-DesarrolloDeInterfaces-Ejercicios-Repaso-C-\EjerciciosC#\RemplazoDeStringsChallenge\RemplazoDeStringsChallenge\obj\Debug\netcoreapp3.1\RemplazoDeStringsChallenge.AssemblyInfo.cs
+C:\Users\xesc2\Desktop\C#\-DesarrolloDeInterfaces-Ejercicios-Repaso-C-\EjerciciosC#\RemplazoDeStringsChallenge\RemplazoDeStringsChallenge\obj\Debug\netcoreapp3.1\RemplazoDeStringsChallenge.csproj.CoreCompileInputs.cache
+C:\Users\xesc2\Desktop\C#\-DesarrolloDeInterfaces-Ejercicios-Repaso-C-\EjerciciosC#\RemplazoDeStringsChallenge\RemplazoDeStringsChallenge\obj\Debug\netcoreapp3.1\RemplazoDeStringsChallenge.dll
+C:\Users\xesc2\Desktop\C#\-DesarrolloDeInterfaces-Ejercicios-Repaso-C-\EjerciciosC#\RemplazoDeStringsChallenge\RemplazoDeStringsChallenge\obj\Debug\netcoreapp3.1\RemplazoDeStringsChallenge.pdb
+C:\Users\xesc2\Desktop\C#\-DesarrolloDeInterfaces-Ejercicios-Repaso-C-\EjerciciosC#\RemplazoDeStringsChallenge\RemplazoDeStringsChallenge\obj\Debug\netcoreapp3.1\RemplazoDeStringsChallenge.genruntimeconfig.cache
