@@ -1,0 +1,15 @@
+C:\Users\xesc2\Desktop\C#\-DesarrolloDeInterfaces-Ejercicios-Repaso-C-\EjerciciosC#\SearchingForDataChallenge\SearchingForDataChallenge\bin\Debug\netcoreapp3.1\SearchingForDataChallenge.exe
+C:\Users\xesc2\Desktop\C#\-DesarrolloDeInterfaces-Ejercicios-Repaso-C-\EjerciciosC#\SearchingForDataChallenge\SearchingForDataChallenge\bin\Debug\netcoreapp3.1\SearchingForDataChallenge.deps.json
+C:\Users\xesc2\Desktop\C#\-DesarrolloDeInterfaces-Ejercicios-Repaso-C-\EjerciciosC#\SearchingForDataChallenge\SearchingForDataChallenge\bin\Debug\netcoreapp3.1\SearchingForDataChallenge.runtimeconfig.json
+C:\Users\xesc2\Desktop\C#\-DesarrolloDeInterfaces-Ejercicios-Repaso-C-\EjerciciosC#\SearchingForDataChallenge\SearchingForDataChallenge\bin\Debug\netcoreapp3.1\SearchingForDataChallenge.runtimeconfig.dev.json
+C:\Users\xesc2\Desktop\C#\-DesarrolloDeInterfaces-Ejercicios-Repaso-C-\EjerciciosC#\SearchingForDataChallenge\SearchingForDataChallenge\bin\Debug\netcoreapp3.1\SearchingForDataChallenge.dll
+C:\Users\xesc2\Desktop\C#\-DesarrolloDeInterfaces-Ejercicios-Repaso-C-\EjerciciosC#\SearchingForDataChallenge\SearchingForDataChallenge\bin\Debug\netcoreapp3.1\SearchingForDataChallenge.pdb
+C:\Users\xesc2\Desktop\C#\-DesarrolloDeInterfaces-Ejercicios-Repaso-C-\EjerciciosC#\SearchingForDataChallenge\SearchingForDataChallenge\obj\Debug\netcoreapp3.1\SearchingForDataChallenge.csprojAssemblyReference.cache
+C:\Users\xesc2\Desktop\C#\-DesarrolloDeInterfaces-Ejercicios-Repaso-C-\EjerciciosC#\SearchingForDataChallenge\SearchingForDataChallenge\obj\Debug\netcoreapp3.1\SearchingForDataChallenge.Form1.resources
+C:\Users\xesc2\Desktop\C#\-DesarrolloDeInterfaces-Ejercicios-Repaso-C-\EjerciciosC#\SearchingForDataChallenge\SearchingForDataChallenge\obj\Debug\netcoreapp3.1\SearchingForDataChallenge.csproj.GenerateResource.cache
+C:\Users\xesc2\Desktop\C#\-DesarrolloDeInterfaces-Ejercicios-Repaso-C-\EjerciciosC#\SearchingForDataChallenge\SearchingForDataChallenge\obj\Debug\netcoreapp3.1\SearchingForDataChallenge.AssemblyInfoInputs.cache
+C:\Users\xesc2\Desktop\C#\-DesarrolloDeInterfaces-Ejercicios-Repaso-C-\EjerciciosC#\SearchingForDataChallenge\SearchingForDataChallenge\obj\Debug\netcoreapp3.1\SearchingForDataChallenge.AssemblyInfo.cs
+C:\Users\xesc2\Desktop\C#\-DesarrolloDeInterfaces-Ejercicios-Repaso-C-\EjerciciosC#\SearchingForDataChallenge\SearchingForDataChallenge\obj\Debug\netcoreapp3.1\SearchingForDataChallenge.csproj.CoreCompileInputs.cache
+C:\Users\xesc2\Desktop\C#\-DesarrolloDeInterfaces-Ejercicios-Repaso-C-\EjerciciosC#\SearchingForDataChallenge\SearchingForDataChallenge\obj\Debug\netcoreapp3.1\SearchingForDataChallenge.dll
+C:\Users\xesc2\Desktop\C#\-DesarrolloDeInterfaces-Ejercicios-Repaso-C-\EjerciciosC#\SearchingForDataChallenge\SearchingForDataChallenge\obj\Debug\netcoreapp3.1\SearchingForDataChallenge.pdb
+C:\Users\xesc2\Desktop\C#\-DesarrolloDeInterfaces-Ejercicios-Repaso-C-\EjerciciosC#\SearchingForDataChallenge\SearchingForDataChallenge\obj\Debug\netcoreapp3.1\SearchingForDataChallenge.genruntimeconfig.cache
